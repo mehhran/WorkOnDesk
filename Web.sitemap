@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode title="منو">
+  <siteMapNode url="" title="کاربر"  description="">
+      <siteMapNode url="~/user/Default.aspx" title="صفحه من"  description="" />
+    </siteMapNode>
+  
+    <siteMapNode url="" title="خریدار"  description="">
+        <siteMapNode url="~/user/MyProjects.aspx" title="درخواست‌های من"  description="" />
+    </siteMapNode>
+  
+   <siteMapNode url="" title="مجری"  description="" >
+       <siteMapNode url="~/user/MyBids.aspx" title="پیشنهاد‌های من"  description="" />
+   </siteMapNode>
+ 
+
+</siteMapNode>
+</siteMap>

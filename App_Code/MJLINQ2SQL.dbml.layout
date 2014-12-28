@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 11" name="MJLINQ2SQL">
+  <DataContextMoniker Name="/MJLINQ2SQLDataContext" />
+  <nestedChildShapes>
+    <classShape Id="10b03ce2-d2ac-420f-b699-c5bd2b08e69f" absoluteBounds="0.625, 0.5, 2, 2.9247054036458331">
+      <DataClassMoniker Name="/MJLINQ2SQLDataContext/Projects_Project" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f88b2683-b8ed-469e-8577-b2eb5e76264a" absoluteBounds="0.64, 0.96, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="1c83e275-33de-4935-9742-ba49f3595366" absoluteBounds="4.75, 1, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/MJLINQ2SQLDataContext/Projects_Message" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c7ebe9c9-7df6-4325-8851-1b28470e327a" absoluteBounds="4.765, 1.46, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c2f266a5-5fd6-4e03-af26-a19a0da71d00" absoluteBounds="1.5, 4.375, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/MJLINQ2SQLDataContext/Projects_Bid" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ba555874-9b22-46eb-897a-372c659a3554" absoluteBounds="1.5150000000000001, 4.835, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cf396453-fad7-46f0-8df4-1d196294f5a3" absoluteBounds="4.125, 4.125, 2, 1.9631982421875">
+      <DataClassMoniker Name="/MJLINQ2SQLDataContext/Bids_Settle" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6b09ec77-ea6f-4338-862f-dab4ad06535a" absoluteBounds="4.14, 4.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="770ce612-1a0e-4d93-b900-077eb5e7bc22" absoluteBounds="3.25, 8.375, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/MJLINQ2SQLDataContext/Contact_Admin" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bd118885-e7fb-4835-b59f-4bcbe4576f8d" absoluteBounds="3.265, 8.835, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
